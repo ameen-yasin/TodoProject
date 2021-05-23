@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoProject</string>
+    <string name="daily_task">Daily Task</string>
+</resources>
