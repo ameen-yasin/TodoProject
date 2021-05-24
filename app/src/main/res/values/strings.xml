@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">TodoProject</string>
     <string name="daily_task">Daily Task</string>
+    <string name="new_task_title">Task Title</string>
+    <string name="hint_enter_task_here">Enter task here</string>
+    <string name="txtDate">Date</string>
+    <string name="create_new_task">Create new Task</string>
+    <string name="btn_add">Add</string>
+    <string name="date_hint">dd/mm/yyyy</string>
+    <string name="btn_save">save</string>
 </resources>
